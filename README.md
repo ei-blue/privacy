@@ -47,5 +47,6 @@ Users have the following rights
 - We may update our Privacy Policy from time to time. Any changes to our Privacy Policy will be posted on this page. We will notify users before changes become effective.
 
 ### Contact Us
-If you have any questions or concerns regarding our Privacy Policy, please contact us please contact us using the form below.
+If you have any questions or concerns regarding our Privacy Policy or application, please contact us using the form below.
+
 [form](https://docs.google.com/forms/d/e/1FAIpQLSefTTmrY0yO0dosFewEajjHnDYG8tBbxg7YxMtEdtrM--HdrQ/viewform?usp=sf_link)
